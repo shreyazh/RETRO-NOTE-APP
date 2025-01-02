@@ -1,4 +1,4 @@
 # RETRO-NOTE-APP
 built using typescript
+https://github.com/user-attachments/assets/697db3ca-2c94-4b48-8825-f631ff2f1f7d
 
-[Preview](https://github.com/user-attachments/assets/a854985a-fa05-4677-b486-453239bfb93f)
